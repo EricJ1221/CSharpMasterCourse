@@ -1,0 +1,15 @@
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\TimeOnlyVariablesApp\TimeOnlyVariables\bin\Debug\net6.0\TimeOnlyVariables.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\TimeOnlyVariablesApp\TimeOnlyVariables\bin\Debug\net6.0\TimeOnlyVariables.deps.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\TimeOnlyVariablesApp\TimeOnlyVariables\bin\Debug\net6.0\TimeOnlyVariables.runtimeconfig.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\TimeOnlyVariablesApp\TimeOnlyVariables\bin\Debug\net6.0\TimeOnlyVariables.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\TimeOnlyVariablesApp\TimeOnlyVariables\bin\Debug\net6.0\TimeOnlyVariables.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\TimeOnlyVariables.csproj.AssemblyReference.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\TimeOnlyVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\TimeOnlyVariables.AssemblyInfoInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\TimeOnlyVariables.AssemblyInfo.cs
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\TimeOnlyVariables.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\TimeOnlyVariables.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\refint\TimeOnlyVariables.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\TimeOnlyVariables.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\TimeOnlyVariables.genruntimeconfig.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\ref\TimeOnlyVariables.dll

@@ -1,0 +1,15 @@
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\VariableTypeConversionsApp\VariableTypeConversions\bin\Debug\net6.0\VariableTypeConversions.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\VariableTypeConversionsApp\VariableTypeConversions\bin\Debug\net6.0\VariableTypeConversions.deps.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\VariableTypeConversionsApp\VariableTypeConversions\bin\Debug\net6.0\VariableTypeConversions.runtimeconfig.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\VariableTypeConversionsApp\VariableTypeConversions\bin\Debug\net6.0\VariableTypeConversions.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\VariableTypeConversionsApp\VariableTypeConversions\bin\Debug\net6.0\VariableTypeConversions.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\VariableTypeConversionsApp\VariableTypeConversions\obj\Debug\net6.0\VariableTypeConversions.csproj.AssemblyReference.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\VariableTypeConversionsApp\VariableTypeConversions\obj\Debug\net6.0\VariableTypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\VariableTypeConversionsApp\VariableTypeConversions\obj\Debug\net6.0\VariableTypeConversions.AssemblyInfoInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\VariableTypeConversionsApp\VariableTypeConversions\obj\Debug\net6.0\VariableTypeConversions.AssemblyInfo.cs
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\VariableTypeConversionsApp\VariableTypeConversions\obj\Debug\net6.0\VariableTypeConversions.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\VariableTypeConversionsApp\VariableTypeConversions\obj\Debug\net6.0\VariableTypeConversions.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\VariableTypeConversionsApp\VariableTypeConversions\obj\Debug\net6.0\refint\VariableTypeConversions.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\VariableTypeConversionsApp\VariableTypeConversions\obj\Debug\net6.0\VariableTypeConversions.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\VariableTypeConversionsApp\VariableTypeConversions\obj\Debug\net6.0\VariableTypeConversions.genruntimeconfig.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\VariableTypeConversionsApp\VariableTypeConversions\obj\Debug\net6.0\ref\VariableTypeConversions.dll

@@ -1,0 +1,15 @@
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConditionalStatementPracticeApp\ConditionalStatementPractice\bin\Debug\net6.0\ConditionalStatementPractice.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConditionalStatementPracticeApp\ConditionalStatementPractice\bin\Debug\net6.0\ConditionalStatementPractice.deps.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConditionalStatementPracticeApp\ConditionalStatementPractice\bin\Debug\net6.0\ConditionalStatementPractice.runtimeconfig.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConditionalStatementPracticeApp\ConditionalStatementPractice\bin\Debug\net6.0\ConditionalStatementPractice.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConditionalStatementPracticeApp\ConditionalStatementPractice\bin\Debug\net6.0\ConditionalStatementPractice.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConditionalStatementPracticeApp\ConditionalStatementPractice\obj\Debug\net6.0\ConditionalStatementPractice.csproj.AssemblyReference.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConditionalStatementPracticeApp\ConditionalStatementPractice\obj\Debug\net6.0\ConditionalStatementPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConditionalStatementPracticeApp\ConditionalStatementPractice\obj\Debug\net6.0\ConditionalStatementPractice.AssemblyInfoInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConditionalStatementPracticeApp\ConditionalStatementPractice\obj\Debug\net6.0\ConditionalStatementPractice.AssemblyInfo.cs
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConditionalStatementPracticeApp\ConditionalStatementPractice\obj\Debug\net6.0\ConditionalStatementPractice.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConditionalStatementPracticeApp\ConditionalStatementPractice\obj\Debug\net6.0\ConditionalStatementPractice.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConditionalStatementPracticeApp\ConditionalStatementPractice\obj\Debug\net6.0\refint\ConditionalStatementPractice.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConditionalStatementPracticeApp\ConditionalStatementPractice\obj\Debug\net6.0\ConditionalStatementPractice.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConditionalStatementPracticeApp\ConditionalStatementPractice\obj\Debug\net6.0\ConditionalStatementPractice.genruntimeconfig.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConditionalStatementPracticeApp\ConditionalStatementPractice\obj\Debug\net6.0\ref\ConditionalStatementPractice.dll

@@ -1,0 +1,15 @@
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConversionPracticeApp\ConversionPractice\bin\Debug\net6.0\ConversionPractice.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConversionPracticeApp\ConversionPractice\bin\Debug\net6.0\ConversionPractice.deps.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConversionPracticeApp\ConversionPractice\bin\Debug\net6.0\ConversionPractice.runtimeconfig.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConversionPracticeApp\ConversionPractice\bin\Debug\net6.0\ConversionPractice.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConversionPracticeApp\ConversionPractice\bin\Debug\net6.0\ConversionPractice.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConversionPracticeApp\ConversionPractice\obj\Debug\net6.0\ConversionPractice.csproj.AssemblyReference.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConversionPracticeApp\ConversionPractice\obj\Debug\net6.0\ConversionPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConversionPracticeApp\ConversionPractice\obj\Debug\net6.0\ConversionPractice.AssemblyInfoInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConversionPracticeApp\ConversionPractice\obj\Debug\net6.0\ConversionPractice.AssemblyInfo.cs
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConversionPracticeApp\ConversionPractice\obj\Debug\net6.0\ConversionPractice.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConversionPracticeApp\ConversionPractice\obj\Debug\net6.0\ConversionPractice.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConversionPracticeApp\ConversionPractice\obj\Debug\net6.0\refint\ConversionPractice.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConversionPracticeApp\ConversionPractice\obj\Debug\net6.0\ConversionPractice.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConversionPracticeApp\ConversionPractice\obj\Debug\net6.0\ConversionPractice.genruntimeconfig.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ConversionPracticeApp\ConversionPractice\obj\Debug\net6.0\ref\ConversionPractice.dll
