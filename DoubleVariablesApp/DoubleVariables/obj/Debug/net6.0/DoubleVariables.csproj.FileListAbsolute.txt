@@ -1,0 +1,15 @@
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoubleVariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoubleVariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.deps.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoubleVariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.runtimeconfig.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoubleVariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoubleVariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.csproj.AssemblyReference.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.AssemblyInfoInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.AssemblyInfo.cs
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\refint\DoubleVariables.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.genruntimeconfig.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\ref\DoubleVariables.dll

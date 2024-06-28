@@ -1,0 +1,15 @@
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\IntVariablesApp\IntVariables\bin\Debug\net6.0\IntVariables.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\IntVariablesApp\IntVariables\bin\Debug\net6.0\IntVariables.deps.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\IntVariablesApp\IntVariables\bin\Debug\net6.0\IntVariables.runtimeconfig.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\IntVariablesApp\IntVariables\bin\Debug\net6.0\IntVariables.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\IntVariablesApp\IntVariables\bin\Debug\net6.0\IntVariables.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\IntVariablesApp\IntVariables\obj\Debug\net6.0\IntVariables.csproj.AssemblyReference.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\IntVariablesApp\IntVariables\obj\Debug\net6.0\IntVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\IntVariablesApp\IntVariables\obj\Debug\net6.0\IntVariables.AssemblyInfoInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\IntVariablesApp\IntVariables\obj\Debug\net6.0\IntVariables.AssemblyInfo.cs
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\IntVariablesApp\IntVariables\obj\Debug\net6.0\IntVariables.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\IntVariablesApp\IntVariables\obj\Debug\net6.0\IntVariables.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\IntVariablesApp\IntVariables\obj\Debug\net6.0\refint\IntVariables.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\IntVariablesApp\IntVariables\obj\Debug\net6.0\IntVariables.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\IntVariablesApp\IntVariables\obj\Debug\net6.0\IntVariables.genruntimeconfig.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\IntVariablesApp\IntVariables\obj\Debug\net6.0\ref\IntVariables.dll

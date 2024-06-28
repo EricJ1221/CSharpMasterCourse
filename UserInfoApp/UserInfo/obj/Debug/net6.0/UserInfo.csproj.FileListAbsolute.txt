@@ -1,0 +1,15 @@
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UserInfoApp\UserInfo\bin\Debug\net6.0\UserInfo.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UserInfoApp\UserInfo\bin\Debug\net6.0\UserInfo.deps.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UserInfoApp\UserInfo\bin\Debug\net6.0\UserInfo.runtimeconfig.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UserInfoApp\UserInfo\bin\Debug\net6.0\UserInfo.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UserInfoApp\UserInfo\bin\Debug\net6.0\UserInfo.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UserInfoApp\UserInfo\obj\Debug\net6.0\UserInfo.csproj.AssemblyReference.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UserInfoApp\UserInfo\obj\Debug\net6.0\UserInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UserInfoApp\UserInfo\obj\Debug\net6.0\UserInfo.AssemblyInfoInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UserInfoApp\UserInfo\obj\Debug\net6.0\UserInfo.AssemblyInfo.cs
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UserInfoApp\UserInfo\obj\Debug\net6.0\UserInfo.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UserInfoApp\UserInfo\obj\Debug\net6.0\UserInfo.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UserInfoApp\UserInfo\obj\Debug\net6.0\refint\UserInfo.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UserInfoApp\UserInfo\obj\Debug\net6.0\UserInfo.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UserInfoApp\UserInfo\obj\Debug\net6.0\UserInfo.genruntimeconfig.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UserInfoApp\UserInfo\obj\Debug\net6.0\ref\UserInfo.dll

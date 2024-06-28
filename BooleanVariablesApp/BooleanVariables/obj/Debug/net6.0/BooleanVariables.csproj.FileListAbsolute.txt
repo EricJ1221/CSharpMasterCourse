@@ -1,0 +1,15 @@
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BooleanVariablesApp\BooleanVariables\bin\Debug\net6.0\BooleanVariables.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BooleanVariablesApp\BooleanVariables\bin\Debug\net6.0\BooleanVariables.deps.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BooleanVariablesApp\BooleanVariables\bin\Debug\net6.0\BooleanVariables.runtimeconfig.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BooleanVariablesApp\BooleanVariables\bin\Debug\net6.0\BooleanVariables.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BooleanVariablesApp\BooleanVariables\bin\Debug\net6.0\BooleanVariables.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BooleanVariablesApp\BooleanVariables\obj\Debug\net6.0\BooleanVariables.csproj.AssemblyReference.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BooleanVariablesApp\BooleanVariables\obj\Debug\net6.0\BooleanVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BooleanVariablesApp\BooleanVariables\obj\Debug\net6.0\BooleanVariables.AssemblyInfoInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BooleanVariablesApp\BooleanVariables\obj\Debug\net6.0\BooleanVariables.AssemblyInfo.cs
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BooleanVariablesApp\BooleanVariables\obj\Debug\net6.0\BooleanVariables.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BooleanVariablesApp\BooleanVariables\obj\Debug\net6.0\BooleanVariables.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BooleanVariablesApp\BooleanVariables\obj\Debug\net6.0\refint\BooleanVariables.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BooleanVariablesApp\BooleanVariables\obj\Debug\net6.0\BooleanVariables.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BooleanVariablesApp\BooleanVariables\obj\Debug\net6.0\BooleanVariables.genruntimeconfig.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BooleanVariablesApp\BooleanVariables\obj\Debug\net6.0\ref\BooleanVariables.dll
