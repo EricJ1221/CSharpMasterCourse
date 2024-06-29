@@ -1,0 +1,15 @@
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoLoopsApp\DoLoops\bin\Debug\net6.0\DoLoops.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoLoopsApp\DoLoops\bin\Debug\net6.0\DoLoops.deps.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoLoopsApp\DoLoops\bin\Debug\net6.0\DoLoops.runtimeconfig.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoLoopsApp\DoLoops\bin\Debug\net6.0\DoLoops.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoLoopsApp\DoLoops\bin\Debug\net6.0\DoLoops.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoLoopsApp\DoLoops\obj\Debug\net6.0\DoLoops.csproj.AssemblyReference.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoLoopsApp\DoLoops\obj\Debug\net6.0\DoLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoLoopsApp\DoLoops\obj\Debug\net6.0\DoLoops.AssemblyInfoInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoLoopsApp\DoLoops\obj\Debug\net6.0\DoLoops.AssemblyInfo.cs
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoLoopsApp\DoLoops\obj\Debug\net6.0\DoLoops.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoLoopsApp\DoLoops\obj\Debug\net6.0\DoLoops.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoLoopsApp\DoLoops\obj\Debug\net6.0\refint\DoLoops.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoLoopsApp\DoLoops\obj\Debug\net6.0\DoLoops.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoLoopsApp\DoLoops\obj\Debug\net6.0\DoLoops.genruntimeconfig.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\DoLoopsApp\DoLoops\obj\Debug\net6.0\ref\DoLoops.dll

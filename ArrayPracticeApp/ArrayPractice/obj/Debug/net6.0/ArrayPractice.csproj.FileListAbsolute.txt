@@ -1,0 +1,15 @@
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ArrayPracticeApp\ArrayPractice\bin\Debug\net6.0\ArrayPractice.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ArrayPracticeApp\ArrayPractice\bin\Debug\net6.0\ArrayPractice.deps.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ArrayPracticeApp\ArrayPractice\bin\Debug\net6.0\ArrayPractice.runtimeconfig.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ArrayPracticeApp\ArrayPractice\bin\Debug\net6.0\ArrayPractice.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ArrayPracticeApp\ArrayPractice\bin\Debug\net6.0\ArrayPractice.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ArrayPracticeApp\ArrayPractice\obj\Debug\net6.0\ArrayPractice.csproj.AssemblyReference.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ArrayPracticeApp\ArrayPractice\obj\Debug\net6.0\ArrayPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ArrayPracticeApp\ArrayPractice\obj\Debug\net6.0\ArrayPractice.AssemblyInfoInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ArrayPracticeApp\ArrayPractice\obj\Debug\net6.0\ArrayPractice.AssemblyInfo.cs
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ArrayPracticeApp\ArrayPractice\obj\Debug\net6.0\ArrayPractice.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ArrayPracticeApp\ArrayPractice\obj\Debug\net6.0\ArrayPractice.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ArrayPracticeApp\ArrayPractice\obj\Debug\net6.0\refint\ArrayPractice.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ArrayPracticeApp\ArrayPractice\obj\Debug\net6.0\ArrayPractice.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ArrayPracticeApp\ArrayPractice\obj\Debug\net6.0\ArrayPractice.genruntimeconfig.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ArrayPracticeApp\ArrayPractice\obj\Debug\net6.0\ref\ArrayPractice.dll
