@@ -1,0 +1,15 @@
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UsingBreakpointsDemo\ConsoleUi\bin\Debug\net6.0\ConsoleUi.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UsingBreakpointsDemo\ConsoleUi\bin\Debug\net6.0\ConsoleUi.deps.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UsingBreakpointsDemo\ConsoleUi\bin\Debug\net6.0\ConsoleUi.runtimeconfig.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UsingBreakpointsDemo\ConsoleUi\bin\Debug\net6.0\ConsoleUi.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UsingBreakpointsDemo\ConsoleUi\bin\Debug\net6.0\ConsoleUi.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UsingBreakpointsDemo\ConsoleUi\obj\Debug\net6.0\ConsoleUi.csproj.AssemblyReference.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UsingBreakpointsDemo\ConsoleUi\obj\Debug\net6.0\ConsoleUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UsingBreakpointsDemo\ConsoleUi\obj\Debug\net6.0\ConsoleUi.AssemblyInfoInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UsingBreakpointsDemo\ConsoleUi\obj\Debug\net6.0\ConsoleUi.AssemblyInfo.cs
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UsingBreakpointsDemo\ConsoleUi\obj\Debug\net6.0\ConsoleUi.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UsingBreakpointsDemo\ConsoleUi\obj\Debug\net6.0\ConsoleUi.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UsingBreakpointsDemo\ConsoleUi\obj\Debug\net6.0\refint\ConsoleUi.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UsingBreakpointsDemo\ConsoleUi\obj\Debug\net6.0\ConsoleUi.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UsingBreakpointsDemo\ConsoleUi\obj\Debug\net6.0\ConsoleUi.genruntimeconfig.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\UsingBreakpointsDemo\ConsoleUi\obj\Debug\net6.0\ref\ConsoleUi.dll

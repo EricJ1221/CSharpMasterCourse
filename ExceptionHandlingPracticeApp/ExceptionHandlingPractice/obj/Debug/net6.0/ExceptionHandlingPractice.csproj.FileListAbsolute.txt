@@ -1,0 +1,15 @@
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ExceptionHandlingPracticeApp\ExceptionHandlingPractice\bin\Debug\net6.0\ExceptionHandlingPractice.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ExceptionHandlingPracticeApp\ExceptionHandlingPractice\bin\Debug\net6.0\ExceptionHandlingPractice.deps.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ExceptionHandlingPracticeApp\ExceptionHandlingPractice\bin\Debug\net6.0\ExceptionHandlingPractice.runtimeconfig.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ExceptionHandlingPracticeApp\ExceptionHandlingPractice\bin\Debug\net6.0\ExceptionHandlingPractice.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ExceptionHandlingPracticeApp\ExceptionHandlingPractice\bin\Debug\net6.0\ExceptionHandlingPractice.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ExceptionHandlingPracticeApp\ExceptionHandlingPractice\obj\Debug\net6.0\ExceptionHandlingPractice.csproj.AssemblyReference.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ExceptionHandlingPracticeApp\ExceptionHandlingPractice\obj\Debug\net6.0\ExceptionHandlingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ExceptionHandlingPracticeApp\ExceptionHandlingPractice\obj\Debug\net6.0\ExceptionHandlingPractice.AssemblyInfoInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ExceptionHandlingPracticeApp\ExceptionHandlingPractice\obj\Debug\net6.0\ExceptionHandlingPractice.AssemblyInfo.cs
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ExceptionHandlingPracticeApp\ExceptionHandlingPractice\obj\Debug\net6.0\ExceptionHandlingPractice.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ExceptionHandlingPracticeApp\ExceptionHandlingPractice\obj\Debug\net6.0\ExceptionHandlingPractice.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ExceptionHandlingPracticeApp\ExceptionHandlingPractice\obj\Debug\net6.0\refint\ExceptionHandlingPractice.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ExceptionHandlingPracticeApp\ExceptionHandlingPractice\obj\Debug\net6.0\ExceptionHandlingPractice.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ExceptionHandlingPracticeApp\ExceptionHandlingPractice\obj\Debug\net6.0\ExceptionHandlingPractice.genruntimeconfig.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\ExceptionHandlingPracticeApp\ExceptionHandlingPractice\obj\Debug\net6.0\ref\ExceptionHandlingPractice.dll
