@@ -1,0 +1,15 @@
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\GuestbookProjectRevisionApp\GuestbookProjectRevision\bin\Debug\net6.0\GuestbookProjectRevision.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\GuestbookProjectRevisionApp\GuestbookProjectRevision\bin\Debug\net6.0\GuestbookProjectRevision.deps.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\GuestbookProjectRevisionApp\GuestbookProjectRevision\bin\Debug\net6.0\GuestbookProjectRevision.runtimeconfig.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\GuestbookProjectRevisionApp\GuestbookProjectRevision\bin\Debug\net6.0\GuestbookProjectRevision.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\GuestbookProjectRevisionApp\GuestbookProjectRevision\bin\Debug\net6.0\GuestbookProjectRevision.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\GuestbookProjectRevisionApp\GuestbookProjectRevision\obj\Debug\net6.0\GuestbookProjectRevision.csproj.AssemblyReference.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\GuestbookProjectRevisionApp\GuestbookProjectRevision\obj\Debug\net6.0\GuestbookProjectRevision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\GuestbookProjectRevisionApp\GuestbookProjectRevision\obj\Debug\net6.0\GuestbookProjectRevision.AssemblyInfoInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\GuestbookProjectRevisionApp\GuestbookProjectRevision\obj\Debug\net6.0\GuestbookProjectRevision.AssemblyInfo.cs
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\GuestbookProjectRevisionApp\GuestbookProjectRevision\obj\Debug\net6.0\GuestbookProjectRevision.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\GuestbookProjectRevisionApp\GuestbookProjectRevision\obj\Debug\net6.0\GuestbookProjectRevision.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\GuestbookProjectRevisionApp\GuestbookProjectRevision\obj\Debug\net6.0\refint\GuestbookProjectRevision.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\GuestbookProjectRevisionApp\GuestbookProjectRevision\obj\Debug\net6.0\GuestbookProjectRevision.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\GuestbookProjectRevisionApp\GuestbookProjectRevision\obj\Debug\net6.0\GuestbookProjectRevision.genruntimeconfig.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\GuestbookProjectRevisionApp\GuestbookProjectRevision\obj\Debug\net6.0\ref\GuestbookProjectRevision.dll
