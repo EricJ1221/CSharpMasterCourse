@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedBreakpointsPractice", "AdvancedBreakpointsPractice\AdvancedBreakpointsPractice.csproj", "{5EEA8977-3DE5-4B9E-8E32-6AC76F54D656}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EEA8977-3DE5-4B9E-8E32-6AC76F54D656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EEA8977-3DE5-4B9E-8E32-6AC76F54D656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EEA8977-3DE5-4B9E-8E32-6AC76F54D656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EEA8977-3DE5-4B9E-8E32-6AC76F54D656}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36BB66B9-9306-4483-9F10-3BE6F6A132BF}
+	EndGlobalSection
+EndGlobal

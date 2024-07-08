@@ -1,0 +1,15 @@
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvanceBreakpointsApp\AdvanceBreakpoints\bin\Debug\net6.0\AdvanceBreakpoints.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvanceBreakpointsApp\AdvanceBreakpoints\bin\Debug\net6.0\AdvanceBreakpoints.deps.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvanceBreakpointsApp\AdvanceBreakpoints\bin\Debug\net6.0\AdvanceBreakpoints.runtimeconfig.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvanceBreakpointsApp\AdvanceBreakpoints\bin\Debug\net6.0\AdvanceBreakpoints.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvanceBreakpointsApp\AdvanceBreakpoints\bin\Debug\net6.0\AdvanceBreakpoints.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvanceBreakpointsApp\AdvanceBreakpoints\obj\Debug\net6.0\AdvanceBreakpoints.csproj.AssemblyReference.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvanceBreakpointsApp\AdvanceBreakpoints\obj\Debug\net6.0\AdvanceBreakpoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvanceBreakpointsApp\AdvanceBreakpoints\obj\Debug\net6.0\AdvanceBreakpoints.AssemblyInfoInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvanceBreakpointsApp\AdvanceBreakpoints\obj\Debug\net6.0\AdvanceBreakpoints.AssemblyInfo.cs
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvanceBreakpointsApp\AdvanceBreakpoints\obj\Debug\net6.0\AdvanceBreakpoints.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvanceBreakpointsApp\AdvanceBreakpoints\obj\Debug\net6.0\AdvanceBreakpoints.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvanceBreakpointsApp\AdvanceBreakpoints\obj\Debug\net6.0\refint\AdvanceBreakpoints.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvanceBreakpointsApp\AdvanceBreakpoints\obj\Debug\net6.0\AdvanceBreakpoints.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvanceBreakpointsApp\AdvanceBreakpoints\obj\Debug\net6.0\AdvanceBreakpoints.genruntimeconfig.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvanceBreakpointsApp\AdvanceBreakpoints\obj\Debug\net6.0\ref\AdvanceBreakpoints.dll
