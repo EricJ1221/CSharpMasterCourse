@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AdvancedExceptions/1.0.0": {
+        "runtime": {
+          "AdvancedExceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdvancedExceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

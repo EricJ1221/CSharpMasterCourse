@@ -1,0 +1,15 @@
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvancedExceptionPracticeApp\AdvancedExceptionPractice\bin\Debug\net6.0\AdvancedExceptionPractice.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvancedExceptionPracticeApp\AdvancedExceptionPractice\bin\Debug\net6.0\AdvancedExceptionPractice.deps.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvancedExceptionPracticeApp\AdvancedExceptionPractice\bin\Debug\net6.0\AdvancedExceptionPractice.runtimeconfig.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvancedExceptionPracticeApp\AdvancedExceptionPractice\bin\Debug\net6.0\AdvancedExceptionPractice.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvancedExceptionPracticeApp\AdvancedExceptionPractice\bin\Debug\net6.0\AdvancedExceptionPractice.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvancedExceptionPracticeApp\AdvancedExceptionPractice\obj\Debug\net6.0\AdvancedExceptionPractice.csproj.AssemblyReference.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvancedExceptionPracticeApp\AdvancedExceptionPractice\obj\Debug\net6.0\AdvancedExceptionPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvancedExceptionPracticeApp\AdvancedExceptionPractice\obj\Debug\net6.0\AdvancedExceptionPractice.AssemblyInfoInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvancedExceptionPracticeApp\AdvancedExceptionPractice\obj\Debug\net6.0\AdvancedExceptionPractice.AssemblyInfo.cs
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvancedExceptionPracticeApp\AdvancedExceptionPractice\obj\Debug\net6.0\AdvancedExceptionPractice.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvancedExceptionPracticeApp\AdvancedExceptionPractice\obj\Debug\net6.0\AdvancedExceptionPractice.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvancedExceptionPracticeApp\AdvancedExceptionPractice\obj\Debug\net6.0\refint\AdvancedExceptionPractice.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvancedExceptionPracticeApp\AdvancedExceptionPractice\obj\Debug\net6.0\AdvancedExceptionPractice.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvancedExceptionPracticeApp\AdvancedExceptionPractice\obj\Debug\net6.0\AdvancedExceptionPractice.genruntimeconfig.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\AdvancedExceptionPracticeApp\AdvancedExceptionPractice\obj\Debug\net6.0\ref\AdvancedExceptionPractice.dll
