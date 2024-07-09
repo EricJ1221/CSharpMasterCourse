@@ -1,0 +1,15 @@
+C:\Users\me\source\repos\DebuggingMiniProjectDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\me\source\repos\DebuggingMiniProjectDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\me\source\repos\DebuggingMiniProjectDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\me\source\repos\DebuggingMiniProjectDemo\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\me\source\repos\DebuggingMiniProjectDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\me\source\repos\DebuggingMiniProjectDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\me\source\repos\DebuggingMiniProjectDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\Module03Lesson06\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\Module03Lesson06\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\Module03Lesson06\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\Module03Lesson06\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\Module03Lesson06\ConsoleUI\obj\Debug\ConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\Module03Lesson06\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\Module03Lesson06\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\Module03Lesson06\ConsoleUI\obj\Debug\ConsoleUI.pdb
