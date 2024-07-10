@@ -7,7 +7,12 @@ using System.Threading.Tasks;
 // This was mostly practice using conditional breakpoints
 // Debugging something that is doing random math with no context seems a bit trivial
 
-
+// Original Inputs and Outputs
+// R Method: Input v = -1 output z = -3
+// F Method: Input x = -3 Output y = -0.6
+// P Method: Input v = -3 Output o = 1.4
+// J Method: Input a = -1 Output c = 0.46666666666666662
+// W Method: Input e = 0 Output n = 4.4666666666666668
 namespace ConsoleUI
 {
     class Program
