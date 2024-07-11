@@ -1,0 +1,15 @@
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClassPracticeApp\StaticClassPractice\obj\Debug\net6.0\StaticClassPractice.csproj.AssemblyReference.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClassPracticeApp\StaticClassPractice\obj\Debug\net6.0\StaticClassPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClassPracticeApp\StaticClassPractice\obj\Debug\net6.0\StaticClassPractice.AssemblyInfoInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClassPracticeApp\StaticClassPractice\obj\Debug\net6.0\StaticClassPractice.AssemblyInfo.cs
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClassPracticeApp\StaticClassPractice\obj\Debug\net6.0\StaticClassPractice.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClassPracticeApp\StaticClassPractice\bin\Debug\net6.0\StaticClassPractice.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClassPracticeApp\StaticClassPractice\bin\Debug\net6.0\StaticClassPractice.deps.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClassPracticeApp\StaticClassPractice\bin\Debug\net6.0\StaticClassPractice.runtimeconfig.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClassPracticeApp\StaticClassPractice\bin\Debug\net6.0\StaticClassPractice.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClassPracticeApp\StaticClassPractice\bin\Debug\net6.0\StaticClassPractice.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClassPracticeApp\StaticClassPractice\obj\Debug\net6.0\StaticClassPractice.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClassPracticeApp\StaticClassPractice\obj\Debug\net6.0\refint\StaticClassPractice.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClassPracticeApp\StaticClassPractice\obj\Debug\net6.0\StaticClassPractice.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClassPracticeApp\StaticClassPractice\obj\Debug\net6.0\StaticClassPractice.genruntimeconfig.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClassPracticeApp\StaticClassPractice\obj\Debug\net6.0\ref\StaticClassPractice.dll

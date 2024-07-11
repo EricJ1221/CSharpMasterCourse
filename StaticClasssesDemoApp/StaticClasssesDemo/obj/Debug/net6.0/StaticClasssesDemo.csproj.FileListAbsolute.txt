@@ -1,0 +1,15 @@
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClasssesDemoApp\StaticClasssesDemo\bin\Debug\net6.0\StaticClasssesDemo.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClasssesDemoApp\StaticClasssesDemo\bin\Debug\net6.0\StaticClasssesDemo.deps.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClasssesDemoApp\StaticClasssesDemo\bin\Debug\net6.0\StaticClasssesDemo.runtimeconfig.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClasssesDemoApp\StaticClasssesDemo\bin\Debug\net6.0\StaticClasssesDemo.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClasssesDemoApp\StaticClasssesDemo\bin\Debug\net6.0\StaticClasssesDemo.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClasssesDemoApp\StaticClasssesDemo\obj\Debug\net6.0\StaticClasssesDemo.csproj.AssemblyReference.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClasssesDemoApp\StaticClasssesDemo\obj\Debug\net6.0\StaticClasssesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClasssesDemoApp\StaticClasssesDemo\obj\Debug\net6.0\StaticClasssesDemo.AssemblyInfoInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClasssesDemoApp\StaticClasssesDemo\obj\Debug\net6.0\StaticClasssesDemo.AssemblyInfo.cs
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClasssesDemoApp\StaticClasssesDemo\obj\Debug\net6.0\StaticClasssesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClasssesDemoApp\StaticClasssesDemo\obj\Debug\net6.0\StaticClasssesDemo.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClasssesDemoApp\StaticClasssesDemo\obj\Debug\net6.0\refint\StaticClasssesDemo.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClasssesDemoApp\StaticClasssesDemo\obj\Debug\net6.0\StaticClasssesDemo.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClasssesDemoApp\StaticClasssesDemo\obj\Debug\net6.0\StaticClasssesDemo.genruntimeconfig.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\StaticClasssesDemoApp\StaticClasssesDemo\obj\Debug\net6.0\ref\StaticClasssesDemo.dll
