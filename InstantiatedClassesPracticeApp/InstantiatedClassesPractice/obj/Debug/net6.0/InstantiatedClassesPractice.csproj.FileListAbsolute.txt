@@ -1,0 +1,15 @@
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\InstantiatedClassesPracticeApp\InstantiatedClassesPractice\bin\Debug\net6.0\InstantiatedClassesPractice.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\InstantiatedClassesPracticeApp\InstantiatedClassesPractice\bin\Debug\net6.0\InstantiatedClassesPractice.deps.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\InstantiatedClassesPracticeApp\InstantiatedClassesPractice\bin\Debug\net6.0\InstantiatedClassesPractice.runtimeconfig.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\InstantiatedClassesPracticeApp\InstantiatedClassesPractice\bin\Debug\net6.0\InstantiatedClassesPractice.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\InstantiatedClassesPracticeApp\InstantiatedClassesPractice\bin\Debug\net6.0\InstantiatedClassesPractice.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\InstantiatedClassesPracticeApp\InstantiatedClassesPractice\obj\Debug\net6.0\InstantiatedClassesPractice.csproj.AssemblyReference.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\InstantiatedClassesPracticeApp\InstantiatedClassesPractice\obj\Debug\net6.0\InstantiatedClassesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\InstantiatedClassesPracticeApp\InstantiatedClassesPractice\obj\Debug\net6.0\InstantiatedClassesPractice.AssemblyInfoInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\InstantiatedClassesPracticeApp\InstantiatedClassesPractice\obj\Debug\net6.0\InstantiatedClassesPractice.AssemblyInfo.cs
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\InstantiatedClassesPracticeApp\InstantiatedClassesPractice\obj\Debug\net6.0\InstantiatedClassesPractice.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\InstantiatedClassesPracticeApp\InstantiatedClassesPractice\obj\Debug\net6.0\InstantiatedClassesPractice.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\InstantiatedClassesPracticeApp\InstantiatedClassesPractice\obj\Debug\net6.0\refint\InstantiatedClassesPractice.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\InstantiatedClassesPracticeApp\InstantiatedClassesPractice\obj\Debug\net6.0\InstantiatedClassesPractice.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\InstantiatedClassesPracticeApp\InstantiatedClassesPractice\obj\Debug\net6.0\InstantiatedClassesPractice.genruntimeconfig.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\InstantiatedClassesPracticeApp\InstantiatedClassesPractice\obj\Debug\net6.0\ref\InstantiatedClassesPractice.dll
