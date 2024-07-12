@@ -1,0 +1,15 @@
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\PropertyTypesDemoApp\PropertyTypesDemo\bin\Debug\net6.0\PropertyTypesDemo.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\PropertyTypesDemoApp\PropertyTypesDemo\bin\Debug\net6.0\PropertyTypesDemo.deps.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\PropertyTypesDemoApp\PropertyTypesDemo\bin\Debug\net6.0\PropertyTypesDemo.runtimeconfig.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\PropertyTypesDemoApp\PropertyTypesDemo\bin\Debug\net6.0\PropertyTypesDemo.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\PropertyTypesDemoApp\PropertyTypesDemo\bin\Debug\net6.0\PropertyTypesDemo.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\PropertyTypesDemoApp\PropertyTypesDemo\obj\Debug\net6.0\PropertyTypesDemo.csproj.AssemblyReference.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\PropertyTypesDemoApp\PropertyTypesDemo\obj\Debug\net6.0\PropertyTypesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\PropertyTypesDemoApp\PropertyTypesDemo\obj\Debug\net6.0\PropertyTypesDemo.AssemblyInfoInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\PropertyTypesDemoApp\PropertyTypesDemo\obj\Debug\net6.0\PropertyTypesDemo.AssemblyInfo.cs
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\PropertyTypesDemoApp\PropertyTypesDemo\obj\Debug\net6.0\PropertyTypesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\PropertyTypesDemoApp\PropertyTypesDemo\obj\Debug\net6.0\PropertyTypesDemo.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\PropertyTypesDemoApp\PropertyTypesDemo\obj\Debug\net6.0\refint\PropertyTypesDemo.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\PropertyTypesDemoApp\PropertyTypesDemo\obj\Debug\net6.0\PropertyTypesDemo.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\PropertyTypesDemoApp\PropertyTypesDemo\obj\Debug\net6.0\PropertyTypesDemo.genruntimeconfig.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\PropertyTypesDemoApp\PropertyTypesDemo\obj\Debug\net6.0\ref\PropertyTypesDemo.dll
