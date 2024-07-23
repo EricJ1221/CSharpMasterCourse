@@ -49,6 +49,7 @@ namespace BattleshipLiteLibrary
                 SpotNumber = number,
                 Status = GridSpotStatus.Empty
             };
+            model.ShotGrid.Add(spot);
         }
 
         public static bool PlaceShip(PlayerInfoModel model, string location)
@@ -59,7 +60,7 @@ namespace BattleshipLiteLibrary
             bool isValidLocation = ValidateGridLocation(model, row, column);
             bool isSpotOpen = ValidateShipLocation(model, row, column);
 
-            if (isValidLocation)
+            if (isValidLocation && isSpotOpen)
             {
                 model.ShipLocations.Add(new GridSpotModel
                 {
@@ -108,12 +109,12 @@ namespace BattleshipLiteLibrary
 
             foreach (var ship in player.ShipLocations)
             {
-                if (ship.Status == GridSpotStatus.Sunk)
+                if (ship.Status != GridSpotStatus.Sunk)
                 {
-                    isActive = true;
+                    return isActive = true;
                 }
             }
-            return isActive;
+            return isActive = false;
         }
 
         public static int GetShotCount(PlayerInfoModel player)
@@ -175,7 +176,10 @@ namespace BattleshipLiteLibrary
             {
                 if (ship.SpotLetter == row.ToUpper() && ship.SpotNumber == column)
                 {
+                    Console.WriteLine("Nice shot, that was a hit, enemy ship sunk.");
+
                     isAHit = true;
+                    ship.Status = GridSpotStatus.Sunk;
                 }
             }
             return isAHit;
@@ -192,6 +196,7 @@ namespace BattleshipLiteLibrary
                     if (isAhit) 
                     { 
                         gridSpot.Status = GridSpotStatus.Hit;
+
                     }
                     else
                     {

@@ -1,0 +1,12 @@
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BattleshipLiteLibrary\BattleshipLiteLibrary\bin\Debug\net6.0\BattleshipLiteLibrary.deps.json
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BattleshipLiteLibrary\BattleshipLiteLibrary\bin\Debug\net6.0\BattleshipLiteLibrary.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BattleshipLiteLibrary\BattleshipLiteLibrary\bin\Debug\net6.0\BattleshipLiteLibrary.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BattleshipLiteLibrary\BattleshipLiteLibrary\obj\Debug\net6.0\BattleshipLiteLibrary.csproj.AssemblyReference.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BattleshipLiteLibrary\BattleshipLiteLibrary\obj\Debug\net6.0\BattleshipLiteLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BattleshipLiteLibrary\BattleshipLiteLibrary\obj\Debug\net6.0\BattleshipLiteLibrary.AssemblyInfoInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BattleshipLiteLibrary\BattleshipLiteLibrary\obj\Debug\net6.0\BattleshipLiteLibrary.AssemblyInfo.cs
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BattleshipLiteLibrary\BattleshipLiteLibrary\obj\Debug\net6.0\BattleshipLiteLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BattleshipLiteLibrary\BattleshipLiteLibrary\obj\Debug\net6.0\BattleshipLiteLibrary.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BattleshipLiteLibrary\BattleshipLiteLibrary\obj\Debug\net6.0\refint\BattleshipLiteLibrary.dll
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BattleshipLiteLibrary\BattleshipLiteLibrary\obj\Debug\net6.0\BattleshipLiteLibrary.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\BattleshipLiteLibrary\BattleshipLiteLibrary\obj\Debug\net6.0\ref\BattleshipLiteLibrary.dll
