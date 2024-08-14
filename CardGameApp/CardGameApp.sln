@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardGameUi", "CardGameUi\CardGameUi.csproj", "{20622A0D-4934-4437-9C55-D814451F8305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20622A0D-4934-4437-9C55-D814451F8305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20622A0D-4934-4437-9C55-D814451F8305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20622A0D-4934-4437-9C55-D814451F8305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20622A0D-4934-4437-9C55-D814451F8305}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C0EBBEB-BEFF-40D6-8A98-6ED77D125C6A}
+	EndGlobalSection
+EndGlobal

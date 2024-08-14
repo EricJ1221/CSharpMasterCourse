@@ -1,0 +1,8 @@
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\CardGameApp\CardGameUi\bin\Debug\CardGameUi.exe.config
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\CardGameApp\CardGameUi\bin\Debug\CardGameUi.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\CardGameApp\CardGameUi\bin\Debug\CardGameUi.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\CardGameApp\CardGameUi\obj\Debug\CardGameUi.csproj.AssemblyReference.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\CardGameApp\CardGameUi\obj\Debug\CardGameUi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\CardGameApp\CardGameUi\obj\Debug\CardGameUi.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\CardGameApp\CardGameUi\obj\Debug\CardGameUi.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\CardGameApp\CardGameUi\obj\Debug\CardGameUi.pdb
