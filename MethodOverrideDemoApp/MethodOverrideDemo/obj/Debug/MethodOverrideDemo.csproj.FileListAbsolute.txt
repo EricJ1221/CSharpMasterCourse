@@ -1,0 +1,8 @@
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\MethodOverrideDemoApp\MethodOverrideDemo\bin\Debug\MethodOverrideDemo.exe.config
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\MethodOverrideDemoApp\MethodOverrideDemo\bin\Debug\MethodOverrideDemo.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\MethodOverrideDemoApp\MethodOverrideDemo\bin\Debug\MethodOverrideDemo.pdb
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\MethodOverrideDemoApp\MethodOverrideDemo\obj\Debug\MethodOverrideDemo.csproj.AssemblyReference.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\MethodOverrideDemoApp\MethodOverrideDemo\obj\Debug\MethodOverrideDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\MethodOverrideDemoApp\MethodOverrideDemo\obj\Debug\MethodOverrideDemo.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\MethodOverrideDemoApp\MethodOverrideDemo\obj\Debug\MethodOverrideDemo.exe
+C:\Users\Erica\Desktop\Github\C# Mastercourse\CSharpMasterCourse\MethodOverrideDemoApp\MethodOverrideDemo\obj\Debug\MethodOverrideDemo.pdb
